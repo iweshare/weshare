@@ -1,0 +1,19 @@
+menu:
+    Articles: /
+    Archive: /archives/
+    About: /2019/09/15/About/
+
+favicon: /weshare.png
+logo: /weshare.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+# ga: UA-xxxxxxxx-x
+
+# Copyright Infomation
+startyear: 2019
