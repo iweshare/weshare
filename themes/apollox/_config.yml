@@ -1,6 +1,7 @@
 menu:
     Articles: /
     Archive: /archives/
+    GitHub: https://github.com/iweshare/weshare
     About: /2019/09/15/About/
 
 favicon: /weshare.png
