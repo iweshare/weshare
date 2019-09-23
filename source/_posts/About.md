@@ -4,7 +4,7 @@ date: 2019-09-15 14:49:13
 author: 程庆林
 ---
 
-Welcome to [WeShare](/)! This is a fantastic awesome place where you can gain our computing experience conclusion and of course you could share your great thing with us by posting to the [repository](https://github.com/imuxin/weshare).
+Welcome to [WeShare](/weshare/)! This is a fantastic awesome place where you can gain our computing experience conclusion and of course you could share your great thing with us by posting to the [repository](https://github.com/imuxin/weshare).
 
 
 
