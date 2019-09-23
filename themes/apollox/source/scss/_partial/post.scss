@@ -82,7 +82,17 @@
         display: block;
         max-width: 100%;
         margin: 1em auto;
-        border: 1px solid 1px solid #c8c8c8;
+        border: 1px solid #c8c8c8;
+        z-index: -1;
+        content: "";
+        bottom: 15px;
+        right: 10px;
+        left: auto;
+        top: 80%;
+        background: #777;
+        -webkit-box-shadow: 0 15px 10px #777;
+        -moz-box-shadow: 0 15px 10px #777;
+        box-shadow: 0 15px 10px #777;
     }
     & > table,
     & > figure.highlight {
