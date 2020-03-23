@@ -34,20 +34,19 @@ Here are the basic steps needed to get set up and contribute a patch. This is me
 I recommend to use [markdown](https://www.markdownguide.org/cheat-sheet/) to write the post, and all the site's posts are using markdown. Next, I will show you how to create your post. Let's dive into the details.
 
 1. Use `hexo` command to create post:
+
    ```bash
    $ hexo new <your_post_title_name>
    ```
+
    After the command executed sucessfully, you can see <your_post_title_name>.md and the same name folder under the path `/source/_posts/'. Edit your post content in the markdown file, <your_post_title_name>.md, and once image or other file needed, put them under the same name folder as the post.
 2. Create commit and push it.
-   > Before you create commit, you need to generate static files first by using the following command.
-   > ```bash
-     $ npm run docs
-     ```
 
    ```bash
    $ git add . && git commit -m 'Add a new post, <your_post_title_name>'
    $ git push -u origin master # make sure that the current branch is the lastest.
    ```
+
 3. Create pull request to the [origin repository](https://github.com/iweshare/weshare). This is a basic usage of GitHub, I will not show the details.
    **I wish you do sync step to make your repository is the latest to the origin repository.**
 
